@@ -53,7 +53,7 @@ intervalo = 180  # tempo em segundos
 
 Execução no terminal
 
-<img src="imagens/exemplo-terminal.png" alt="Auto clique executado no terminal" width="500">
+<img src="imagem/exemplo-terminal.png" alt="Auto clique executado no terminal" width="500">
 
 
 ---
